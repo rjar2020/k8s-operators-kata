@@ -1,0 +1,9 @@
+apiVersion: etcd.database.coreos.com/v1beta2
+kind: EtcdCluster
+metadata:
+  name: example-etcd-cluster
+spec:
+  #size: 3
+  size: 4
+  #version: 3.1.10
+  version: 3.2.13
