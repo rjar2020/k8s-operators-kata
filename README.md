@@ -1,4 +1,4 @@
-# Learn Golang through TDD
+# Operators in Kubernetes
 Execution from [Kubernetes Operators Repo]
 
 Following the book [Kubernetes Operators by Jason Dobies and Joshua Wood, O'Reilly, 2020]
