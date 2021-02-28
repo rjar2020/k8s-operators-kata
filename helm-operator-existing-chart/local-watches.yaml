@@ -1,0 +1,6 @@
+# Use the 'create api' subcommand to add watches to this file.
+- group: charts.my.domain
+  version: v1alpha1
+  kind: VisitorsHelm
+  chart: /Users/rolandoangelini/repo/k8s-operators-kata/helm-operator-existing-chart/config/crd
+#+kubebuilder:scaffold:watch
